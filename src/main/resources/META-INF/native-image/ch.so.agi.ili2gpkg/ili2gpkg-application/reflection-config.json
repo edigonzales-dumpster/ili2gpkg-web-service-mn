@@ -46,5 +46,11 @@
     "methods": [
       { "name": "<init>", "parameterTypes": [] }
     ]
-  }  
+  },
+  {
+    "name" : "ch.ehi.ili2gpkg.GpkgColumnConverter",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  }   
 ]
