@@ -8,3 +8,9 @@ mn create-app --features=graalvm --features file-watch ch.so.agi.ili2gpkg.ili2gp
 cd ili2gpkg
 mn create-controller Main
 ```
+
+```
+./gradlew eclipse
+./gradlew run --continuous
+
+```
